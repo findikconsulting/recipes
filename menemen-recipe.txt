@@ -1,0 +1,12 @@
+Ingredients:
+ - 3 eggs
+ - 1 tomato
+ - 1 onion
+ - 1 green pepper
+
+Directions:
+  1. In a medium saucepan, melt butter.
+  2. Cut the onion in small cubes and sautee on the pan.
+  3. Cut the pepper also in cubes and mix and sautee on the pan with onions.
+  3. Cut the tomato in cubes and mix with rest in pan and cook for couple minutes.
+  4. Add the eggs in the pan and mix and cook for 1 minute.
